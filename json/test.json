@@ -1,15 +1,36 @@
 [{
 	"no": 0,
-	"name": "Pixica MIUI 9 Theme",
-	"description": "MiUI Pixica Key Features:\n Pure Pixel feel Homescreen \nPixel weather Widget Stock \nAndroid Bootanimation \n500+ rounded icons are added \nStock Android like colorful contacts icons in Dialler/SMS \nAndroid AOSP style Settings Material design Music \nDouble Tap on Homescreen to change wallpaper \n7 days auto wallpaper change in Lockscreen \nSome 3rd party apps are themed",
-	"categories": "MIUI 8, MUIU9, Rounded Icon",
-	"link_download": "https://www.mediafire.com/file/cd7v3wsxhakj706/Pixica-1.0.0.0.mtz",
-	"preview": "https://github.com/kshmr/mithe/raw/master/img/Pixica-MIUI-9-Theme-1024x607.png"
+	"name": "Android P",
+	"description": "Android 9 Pie is here, so you can’t be blamed for looking for a theme that resembles the new look. The Android P theme is based on Android Pie, and as you can see, it showcases the same white and blue theme all over the place.",
+	"categories": "Rounded Icon, White, Light",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/android-p.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/pixel%202%20Android-P.jpg"
 },{
 	"no": 1,
-	"name": "Sapphire TT MIUI 9 Theme",
-	"description": "Designer: Galer Vodgals",
-	"categories": "MIUI 8, MUIU9, Rounded Icon, Green, Nature",
-	"link_download": "http://zhuti.xiaomi.com/detail/6e96d758-12ea-45a7-8933-dbb1e0ba7039",
-	"preview": "https://raw.githubusercontent.com/kshmr/mithe/master/img/195009uwnm314mpv568hww.jpg"
+	"name": "Google Pixel 2 – Android 8 Oreo",
+	"description": "The Pixel Experience is one thing, but to have the exact same look as the Google Pixel 2 is another. Well, this theme is all about that. The Google Pixel 2 theme comes with the exact same Pixel 2 look, offering over 1100 stock icons and the new stock Google Pixel 2 boot animation as well.",
+	"categories": "Pixel, Oreo, Rounded Icon, White, Light",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Pixel%202%20oreo.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Android%20oreo.JPG"
+},{
+	"no": 2,
+	"name": "Android One",
+	"description": "Android One is one of the cleanest forms of Android available to OEMs, and the same can be said for this theme right here. The Android One theme looks pretty similar to those found on Android One devices, boasting of the circular icons, folder icons, the Pixel widget, and much more.",
+	"categories": "Oreo, Light, Rounded Icon",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Android%20One.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Android-One.jpg"
+},{
+	"no": 3,
+	"name": "Pixel N",
+	"description": "If you like looks with no actual functionality, then the Pixel N is the theme for you. Basically, this theme adds a lot of visual elements to your device, blending a Pixel and Android Nougat experience.",
+	"categories": "Pixel, Dark, Grey",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Pixel%2BN-1.0.0.0.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Pixel-N.jpg"
+},{
+	"no": 4,
+	"name": "Name-X Light",
+	"description": "Last but not the least, there’s Name-X Light. Okay, this isn’t stock Android or AOSP, but let’s be honest, the reason you’re probably looking for an AOSP-styled theme is that you want a cleaner looking device. And well, this theme delivers just that.",
+	"categories": "Dark, Oled",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/name-x-light.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Name-X-Light.jpg"
 }]
