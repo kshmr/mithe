@@ -33,4 +33,81 @@
 	"categories": "Dark, Oled",
 	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/name-x-light.mtz",
 	"preview": "https://github.com/kshmr/mithe/raw/master/img/Name-X-Light.jpg"
+},{
+	"no": 5,
+	"name": "Square-MM MIUI 10",
+	"description": "Designer: ICE",
+	"categories": "Dark, Oled, Square Icon, Black, MIUI 10",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Square-MM%5BICE%5D.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Square-MM.jpg"
+},{
+	"no": 6,
+	"name": "FullBlack-MM MIUI 10 Theme",
+	"description": "Designer: ICE",
+	"categories": "Dark, Oled, Black, MIUI 10",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/FullBlack-MM%5BICE%5D.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/FullBlack-MM.jpg"
+},{
+	"no": 7,
+	"name": "Black Shark S9+ MIUI 9",
+	"description": "Designer: A Yin",
+	"categories": "Dark, Oled, Black, MIUI 9, Gaming",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Black%20Shark%20S9.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Black%20Shark%20S9%2B%20MIUI%209.jpg"
+},{
+	"no": 8,
+	"name": "Sour v2 (Blue Edition) MIUI 9",
+	"description": "Designer: Fox",
+	"categories": "Light, Blue, MIUI 9, Minimal",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Sour-B.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Sour-B.jpg"
+},{
+	"no": 9,
+	"name": "Flox Ui Dark v3 MIUI 9",
+	"description": "Designer: Astro",
+	"categories": "Dark, Black, MIUI 9, Square Icon",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Flox%20Ui%20Dark.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Flox%20Ui%20Dark.jpg"
+},{
+	"no": 10,
+	"name": "Flox Ui Light v3 MIUI 9",
+	"description": "Designer: Astro",
+	"categories": "Light, MIUI 9, Square Icon",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Flox%20Ui%20Light.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Flox%20Ui%20Light.jpg"
+},{
+	"no": 11,
+	"name": "Tank War MIUI 9 Theme",
+	"description": "Tank War MIUI 9 Theme",
+	"categories": "Green, MIUI 9, Cartoon, Gaming",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Tank%20War%20MIUI%209.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Tank%20War%20MIUI%209.jpg"
+},{
+	"no": 12,
+	"name": "Kaabil 999 MIUI 9 Theme",
+	"description": "Designer: Jay Milano",
+	"categories": "Light, MIUI 9, Cartoon, Minimal",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Kaabil%20999%20MIUI%209.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Kaabil%20999%20MIUI%209.jpg"
+},{
+	"no": 13,
+	"name": "DARK STORY 999 MIUI 9 Theme",
+	"description": "Designer: chueng",
+	"categories": "Dark, Black, MIUI 9, Minimal",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/DARK%20STORY%20999.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/DARK%20STORY%20999.jpg"
+},{
+	"no": 14,
+	"name": "Moonbeam MIUI 9 Theme",
+	"description": "Designer: UkkyMS",
+	"categories": "Dark, MIUI 9, Minimal",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Moonbeam.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Moonbeam.jpg"
+},{
+	"no": 15,
+	"name": "Let It Be 0 V2 MIUI 9 Theme",
+	"description": "Designer: Sokhael Khan",
+	"categories": "Dark, MIUI 9, Blue",
+	"link_download": "https://github.com/kshmr/mithe/raw/master/raw/Let%20It%20Be%200.mtz",
+	"preview": "https://github.com/kshmr/mithe/raw/master/img/Let%20It%20Be%200.jpg"
 }]
